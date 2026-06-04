@@ -13,5 +13,8 @@ Heatmap korelasi menunjukkan hubungan paling kuat antara grades_before_ai dan gr
 Kategori D - Distribusi Umur Siswa
 Distribusi umur responden berada pada rentang 14 sampai 19 tahun, yang menunjukkan bahwa data mencakup pelajar sekolah hingga mahasiswa awal. Sebaran umur ini membantu memberikan gambaran bahwa penggunaan AI dalam dataset tidak hanya terjadi pada satu kelompok umur tertentu, tetapi tersebar pada beberapa usia pelajar muda.
 
+Grafik Gabungan 2 x 2
+Grafik gabungan merangkum seluruh hasil analisis kategori A sampai D dalam satu tampilan. Visualisasi ini memudahkan pembaca membandingkan hasil agregasi, filter data, korelasi, dan distribusi secara bersamaan tanpa harus melihat grafik secara terpisah.
+
 Caption Gabungan Singkat
 Analisis data Student AI Usage menunjukkan bahwa penggunaan AI dapat berkaitan dengan peningkatan nilai siswa, terutama pada kelompok yang memanfaatkan AI untuk membantu mengerjakan homework. Meskipun beberapa siswa memiliki durasi belajar mandiri yang rendah, nilai akhir mereka tetap mengalami peningkatan. Selain itu, hubungan antara nilai sebelum dan sesudah penggunaan AI menunjukkan korelasi positif yang cukup kuat, sehingga nilai awal masih menjadi faktor penting dalam capaian akademik setelah penggunaan AI.
