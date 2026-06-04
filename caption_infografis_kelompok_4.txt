@@ -1,0 +1,17 @@
+CAPTION INFOGRAFIS KELOMPOK 4
+Kelas F - Student AI Usage
+
+Kategori A - Median Nilai Awal Berdasarkan Jenjang Pendidikan
+Median nilai awal sebelum menggunakan AI pada siswa jenjang school adalah 64.5, sedangkan pada jenjang college adalah 63.0. Selisih ini tidak terlalu besar, sehingga dapat disimpulkan bahwa kemampuan akademik awal antara kedua jenjang pendidikan relatif seimbang sebelum adanya pengaruh penggunaan AI.
+
+Kategori B - Pengguna AI untuk Homework dengan Jam Belajar Kurang dari 2 Jam
+Terdapat 6 siswa yang menggunakan AI untuk membantu mengerjakan homework dengan waktu belajar mandiri kurang dari 2 jam per hari. Walaupun durasi belajar mereka tergolong rendah, seluruh siswa dalam kelompok ini mengalami peningkatan nilai setelah menggunakan AI. Hal ini menunjukkan bahwa AI dapat berperan sebagai alat bantu belajar yang efektif jika digunakan untuk mendukung penyelesaian tugas.
+
+Kategori C - Korelasi Antar Kolom Numerik
+Heatmap korelasi menunjukkan hubungan paling kuat antara grades_before_ai dan grades_after_ai, dengan nilai korelasi sekitar 0.76. Artinya, siswa yang memiliki nilai awal lebih tinggi cenderung tetap mendapatkan nilai akhir yang lebih tinggi setelah menggunakan AI. Sementara itu, variabel seperti durasi belajar dan screen time memiliki korelasi yang lebih lemah terhadap nilai akademik.
+
+Kategori D - Distribusi Umur Siswa
+Distribusi umur responden berada pada rentang 14 sampai 19 tahun, yang menunjukkan bahwa data mencakup pelajar sekolah hingga mahasiswa awal. Sebaran umur ini membantu memberikan gambaran bahwa penggunaan AI dalam dataset tidak hanya terjadi pada satu kelompok umur tertentu, tetapi tersebar pada beberapa usia pelajar muda.
+
+Caption Gabungan Singkat
+Analisis data Student AI Usage menunjukkan bahwa penggunaan AI dapat berkaitan dengan peningkatan nilai siswa, terutama pada kelompok yang memanfaatkan AI untuk membantu mengerjakan homework. Meskipun beberapa siswa memiliki durasi belajar mandiri yang rendah, nilai akhir mereka tetap mengalami peningkatan. Selain itu, hubungan antara nilai sebelum dan sesudah penggunaan AI menunjukkan korelasi positif yang cukup kuat, sehingga nilai awal masih menjadi faktor penting dalam capaian akademik setelah penggunaan AI.
